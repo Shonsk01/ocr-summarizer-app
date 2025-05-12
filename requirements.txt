@@ -1,0 +1,7 @@
+streamlit==1.45.1
+pytesseract
+transformers
+Pillow
+torch
+opencv-python
+numpy
